@@ -15,4 +15,4 @@ After you have indicated the positions clearly, click the get guess button next 
 
 
 **Additional Images**
-![image](https://github.com/user-attachments/assets/33f9636b-b9d7-475a-9a19-95be4264ac5b)
+![Screenshot_20240719_154936](https://github.com/user-attachments/assets/21758f39-7ffd-48e3-9766-554d1d18bea5)
